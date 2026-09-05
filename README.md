@@ -7,8 +7,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-drakwonderland-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drakwonderland)
 
 <p align="center">
-  <b>Computer Science Undergraduate • Systems & Embedded Prototypes • Web Development</b><br>
-  Focused on building deterministic hardware devices, low-latency code, and lightweight web tools.
+  <b>Computer Science Undergraduate • Systems & Hardware Prototypes • Automotive Enthusiast</b><br>
+  Tinkerer and builder focused on low-level microcontroller code, raw dynamic web tools, wrenching on engines, and pushing machines to their mechanical limits.
 </p>
 
 ---
@@ -71,11 +71,24 @@
 
 ---
 
-### 💻 Projects & Experience
+### ⚡ Technical Experience
 
-* 🌐 **[L-Ala Studio Infrastructure](https://portfolio.l-ala.studio):** Custom DNS routing, Gmail SMTP relaying, and automated static deployment hosting via GitHub Pages under `portfolio.l-ala.studio`.
-* ⚡ **Web Engineering:** Building dynamic backends and responsive interfaces utilizing **PHP**, **JavaScript**, semantic **HTML5**, and pure **CSS3**—relying on standard styling and clean layouts without external utility frameworks.
-* 🖥️ **Hardware Assembly & Systems:** Custom desktop building, hardware thermal analysis, bench testing, and routine terminal environments on Linux.
+* 🛠️ **Hardware Prototyping & Embedded C/C++:** Translating physical sensor metrics into responsive, offline safety systems with zero external dependencies[cite: 1].
+* 🌐 **Web Applications:** Building lightweight, dynamic web interfaces and backends using pure **PHP**, **JavaScript**, semantic **HTML5**, and standard **CSS3** without dependency bloat.
+* 🖥️ **Systems & Rig Assembly:** Custom PC building, hardware bench testing, component thermal analysis, and terminal-based development in Linux.
+
+---
+
+### 🏎️ Beyond the Terminal: Speed, Mechanics & Sport
+
+When I'm not writing code or wiring up microcontrollers, I'm out modifying physical systems or competing:
+
+* 🔧 **Automotive Wrenching & Modification:** Obsessed with mechanical systems and hands-on car maintenance. I love tearing down components, modifying parts, diagnosing engines, and understanding exactly how mechanical and ECU systems extract power.
+* 🏁 **High-Speed Driving:** I really like  performance driving. going fast and pushing that poor engine to its limits (clocked up to **230 km/h**).
+* ⛳ **Competitive Golf:** Dedicated golfer with a focus on discipline and shot mechanics. *say bye bye to your money on golf*
+  * **Lowest Round:** `74` 
+  * **Longest Drive:** `320 yards` **holy future Tiger Woods**
+* 🧭 **Modifier mind af:** Whether it's an engine bay, a circuit board, or software, I don't leave things stock. I take things apart to figure out how they work, how to optimize them, and how far they can go. my brain refuses to leave anything **STOCK**
 
 ---
 
