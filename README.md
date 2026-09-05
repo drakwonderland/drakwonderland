@@ -22,6 +22,7 @@
 **Languages & Web**  
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -74,7 +75,8 @@
 ### ⚡ Technical Experience
 
 * 🛠️ **Hardware Prototyping & Embedded C/C++:** Translating physical sensor metrics into responsive, offline safety systems with zero external dependencies[cite: 1].
-* 🌐 **Web Applications:** Building lightweight, dynamic web interfaces and backends using pure **PHP**, **JavaScript**, semantic **HTML5**, and standard **CSS3** without dependency bloat.
+* ☕ **Object-Oriented Programming (Java):** Actively diving into OOP fundamentals, structured software architecture, and memory models.
+* 🌐 **Web Applications:** Building lightweight dynamic web interfaces and backends using pure **PHP**, **JavaScript**, semantic **HTML5**, and standard **CSS3** without framework bloat.
 * 🖥️ **Systems & Rig Assembly:** Custom PC building, hardware bench testing, component thermal analysis, and terminal-based development in Linux.
 
 ---
@@ -84,11 +86,19 @@
 When I'm not writing code or wiring up microcontrollers, I'm out modifying physical systems or competing:
 
 * 🔧 **Automotive Wrenching & Modification:** Obsessed with mechanical systems and hands-on car maintenance. I love tearing down components, modifying parts, diagnosing engines, and understanding exactly how mechanical and ECU systems extract power.
-* 🏁 **High-Speed Driving:** I really like  performance driving. going fast and pushing that poor engine to its limits (clocked up to **230 km/h**).
+* 🏁 **High-Speed Driving:** I really like performance driving. Going fast and pushing that poor engine to its limits (clocked up to **230 km/h**).
 * ⛳ **Competitive Golf:** Dedicated golfer with a focus on discipline and shot mechanics. *say bye bye to your money on golf*
-  * **Lowest Round:** `74` 
+  * **Lowest Round:** `74`
   * **Longest Drive:** `320 yards` **holy future Tiger Woods**
-* 🧭 **Modifier mind af:** Whether it's an engine bay, a circuit board, or software, I don't leave things stock. I take things apart to figure out how they work, how to optimize them, and how far they can go. my brain refuses to leave anything **STOCK**
+* 🧭 **Modifier Mind af:** Whether it's an engine bay, a circuit board, or software, I don't leave things stock. I take things apart to figure out how they work, how to optimize them, and how far they can go. My brain refuses to leave anything **STOCK**.
+
+<details>
+<summary>❤️ <b>Critical part!!!</b></summary>
+<br>
+
+> *The absolute best thing in my life is my girlfriend, Ashley Rhainne!. Code can throw Runtime faults, projects can overheat, and golf scores can fluctuate, but she's the one constant that keeps everything running smooth. She has my whole heart. *
+
+</details>
 
 ---
 
