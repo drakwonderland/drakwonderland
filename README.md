@@ -61,10 +61,10 @@
 <summary><b>🔍 Expand AlertShield Sensor Array & Technical Breakdown</b></summary>
 <br>
 
-* **Flood Ingress Sensor:** HC-SR04 ultrasonic distance sensor measuring acoustic time-of-flight against a buoyant celluloid float inside an isolated 2-inch vertical PVC conduit[cite: 1].
-* **Thermal Fire Sentinel:** MLX90614 non-contact infrared thermopile sensor calibrated to NFPA 72 residential criteria (>57°C) to prevent false positives under tropical heat[cite: 1].
-* **Combustible & Gas Array:** MQ-2 and MQ-7 metal-oxide semiconductor sensors tracking LPG, methane, and CO down to 10% Lower Explosive Limit (NFPA 715 compliance)[cite: 1].
-* **Chassis & Signaling:** Custom parametric CAD-modeled enclosure fabricated using FDM 3D printing (PLA), fitted with a 16x2 I2C LCD, piezoceramic buzzer, and status LED matrix[cite: 1].
+* **Flood Ingress Sensor:** HC-SR04 ultrasonic distance sensor measuring acoustic time-of-flight against a buoyant celluloid float inside an isolated 2-inch vertical PVC conduit.
+* **Thermal Fire Sentinel:** MLX90614 non-contact infrared thermopile sensor calibrated to NFPA 72 residential criteria (>57°C) to prevent false positives under tropical heat.
+* **Combustible & Gas Array:** MQ-2 and MQ-7 metal-oxide semiconductor sensors tracking LPG, methane, and CO down to 10% Lower Explosive Limit (NFPA 715 compliance).
+* **Chassis & Signaling:** Custom parametric CAD-modeled enclosure fabricated using FDM 3D printing (PLA), fitted with a 16x2 I2C LCD, piezoceramic buzzer, and status LED matrix.
 
 👉 **[Read the Full AlertShield Case Study](https://portfolio.l-ala.studio/alertshield.html)**[cite: 1]
 
@@ -74,10 +74,10 @@
 
 ### ⚡ Technical Experience
 
-* 🛠️ **Hardware Prototyping & Embedded C/C++:** Translating physical sensor metrics into responsive, offline safety systems with zero external dependencies[cite: 1].
-* ☕ **Object-Oriented Programming (Java):** Actively diving into OOP fundamentals, structured software architecture, and memory models.
-* 🌐 **Web Applications:** Building lightweight dynamic web interfaces and backends using pure **PHP**, **JavaScript**, semantic **HTML5**, and standard **CSS3** without framework bloat.
-* 🖥️ **Systems & Rig Assembly:** Custom PC building, hardware bench testing, component thermal analysis, and terminal-based development in Linux.
+* 🛠️ **Hardware Prototyping & Embedded C/C++:** Translating physical sensor metrics into responsive, offline safety systems with zero external dependencies.
+* ☕ **Object-Oriented Programming (Java):** Actively diving into OOP fundamentals, structured software architecture.
+* 🌐 **Web Applications:** Building lightweight dynamic web interfaces and backends using pure **PHP**, **JavaScript**, semantic **HTML5**, and standard **CSS3**.
+* 🖥️ **Systems & Rig Assembly:** Custom PC building, hardware bench testing, component thermal analysis.
 
 ---
 
